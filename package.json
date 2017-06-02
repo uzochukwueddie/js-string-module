@@ -1,0 +1,24 @@
+{
+  "name": "js-string-module",
+  "version": "1.0.0",
+  "description": "A simple javascript module for manipulating strings",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzochukwueddie/js-string-module.git"
+  },
+  "keywords": [
+    "strings",
+    "methods",
+    "repeat"
+  ],
+  "author": "Uzochukwu Eddie Odozi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzochukwueddie/js-string-module/issues"
+  },
+  "homepage": "https://github.com/uzochukwueddie/js-string-module#readme"
+}
